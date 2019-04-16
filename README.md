@@ -12,6 +12,7 @@
 |L2-014| 列车调度  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_014/Main.cpp) | 贪心+二分 |
 |L2-023| 图着色问题  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_023/Main.java) [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_023/Main.cpp) | 图的遍历 |
 |L2-029| 特立独行的幸福  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_029/Main.java)| 水题 |
+|L2-031| 深入虎穴  |[C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_032/Main.cpp)| bfs |
 |L2-032| 彩虹瓶  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_032/Main.java)| 栈 |
 
 L2-014 Java超时
