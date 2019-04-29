@@ -1,5 +1,10 @@
 | 编号 | 标题 |  题解  | 分类 |
 | ---- | ---- | :-------------------------: | ---- |
+|L1-001| Hello, World  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_001/Main.cpp) | 水题 |
+|L1-002| 打印沙漏  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_002/Main.cpp) | 打印图形 |
+|L1-003| 个位数统计  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_003/Main.cpp) | 水题 |
+|L1-004| 计算摄氏温度  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_004/Main.cpp) | 水题 |
+|L1-005| 考试座位号  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_005/Main.cpp) | map |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
@@ -19,7 +24,11 @@
 |L2-032| 彩虹瓶  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_032/Main.java)| 栈 |
 
 L2-014 Java超时
+
 L2-015 Java超时
+
 L2-017 Java超时，卡两个测试点
+
 L2-019 Java超时，卡最后一个测试点
+
 L2-023 Java版卡最后一个测试点
