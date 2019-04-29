@@ -1,5 +1,5 @@
 | 编号 | 标题 |  题解  | 分类 |
-| ---- | ---- | :-------------------------: | ---- |
+| ---- | ---- | ------------------------- | ---- |
 |L1-001| Hello, World  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_001/Main.cpp) | 水题 |
 |L1-002| 打印沙漏  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_002/Main.cpp) | 打印图形 |
 |L1-003| 个位数统计  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_003/Main.cpp) | 水题 |
