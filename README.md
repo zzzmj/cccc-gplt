@@ -5,6 +5,11 @@
 |L1-003| 个位数统计  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_003/Main.cpp) | 水题 |
 |L1-004| 计算摄氏温度  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_004/Main.cpp) | 水题 |
 |L1-005| 考试座位号  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_005/Main.cpp) | map |
+|L1-006| 连续因子  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_006/Main.cpp) | 逻辑题 |
+|L1-007| 念数字  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_007/Main.cpp) | 水题 |
+|L1-008| 求整数段和  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_008/Main.cpp) | 水题 |
+|L1-010| 比较大小  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_010/Main.cpp) | 水题 |
+|L1-011| A-B  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_011/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_011/Main.cpp) | 字符串 |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
@@ -22,6 +27,8 @@
 |L2-029| 特立独行的幸福  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_029/Main.java)| 水题 |
 |L2-031| 深入虎穴  |[C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_032/Main.cpp)| bfs |
 |L2-032| 彩虹瓶  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_032/Main.java)| 栈 |
+
+L1_011 Java超时
 
 L2-014 Java超时
 
