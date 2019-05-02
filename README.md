@@ -10,6 +10,7 @@
 |L1-008| 求整数段和  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_008/Main.cpp) | 水题 |
 |L1-010| 比较大小  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_010/Main.cpp) | 水题 |
 |L1-011| A-B  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_011/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_011/Main.cpp) | 字符串 |
+|L1-012| 计算指数  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_011/Main.cpp) | 水题 |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
