@@ -1,16 +1,20 @@
 | 编号 | 标题 |  题解  | 分类 |
 | ---- | ---- | ------------------------- | ---- |
-|L1-001| Hello, World  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_001/Main.cpp) | 水题 |
-|L1-002| 打印沙漏  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_002/Main.cpp) | 打印图形 |
-|L1-003| 个位数统计  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_003/Main.cpp) | 水题 |
-|L1-004| 计算摄氏温度  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_004/Main.cpp) | 水题 |
-|L1-005| 考试座位号  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_005/Main.cpp) | map |
-|L1-006| 连续因子  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_006/Main.cpp) | 逻辑题 |
-|L1-007| 念数字  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_007/Main.cpp) | 水题 |
-|L1-008| 求整数段和  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_008/Main.cpp) | 水题 |
-|L1-010| 比较大小  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_010/Main.cpp) | 水题 |
+|L1-001| Hello, World  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_001/Main.java) | 水题 |
+|L1-002| 打印沙漏  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_002/Main.java) | 打印图形 |
+|L1-003| 个位数统计  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_003/Main.java) | 水题 |
+|L1-004| 计算摄氏温度  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_004/Main.java) | 水题 |
+|L1-005| 考试座位号  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_005/Main.java) | map |
+|L1-006| 连续因子  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_006/Main.java) | 逻辑题 |
+|L1-007| 念数字  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_007/Main.java) | 水题 |
+|L1-008| 求整数段和  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_008/Main.java) | 水题 |
+|L1-010| 比较大小  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_010/Main.java) | 水题 |
 |L1-011| A-B  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_011/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_011/Main.cpp) | 字符串 |
-|L1-012| 计算指数  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_011/Main.cpp) | 水题 |
+|L1-012| 计算指数  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_012/Main.java) | 水题 |
+|L1-013| 计算阶乘和  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_013/Main.java) | 水题 |
+|L1-014| 简单题  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_014/Main.java) | 水题  |
+|L1-015| 跟奥巴马一起画方块  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_015/Main.java) | 图形打印  |
+|L1-016| 查验身份证  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_016/Main.java) | 水题  |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
