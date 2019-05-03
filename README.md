@@ -15,6 +15,9 @@
 |L1-014| 简单题  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_014/Main.java) | 水题  |
 |L1-015| 跟奥巴马一起画方块  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_015/Main.java) | 图形打印  |
 |L1-016| 查验身份证  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_016/Main.java) | 水题  |
+|L1-017| 到底有多二  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_017/Main.java) | 水题  |
+|L1-018| 大笨钟  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_018/Main.java) | 水题  |
+|L1-019| 谁先倒  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_019/Main.java) | 逻辑题  |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
