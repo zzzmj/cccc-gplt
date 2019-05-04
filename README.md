@@ -28,6 +28,7 @@
 |L1-027| 出租  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_027/Main.java) | 字符串  |
 |L1-028| 判断素数  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_028/Main.java) | 数学题  |
 |L1-029| 是不是太胖了  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_029/Main.java) | 数学题  |
+|L1-030| 一帮一  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_030/Main.java) | 逻辑题  |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
