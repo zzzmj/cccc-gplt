@@ -24,6 +24,8 @@
 |L1-023| 输出GPLT  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_023/Main.java) | 字符串处理  |
 |L1-024| 后天  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_024/Main.java) | 数学题  |
 |L1-025| 正整数A+B  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_025/Main.java) | 字符串处理  |
+|L1-026| I Love GPLT  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_026/Main.java) | 水题  |
+|L1-027| 出租  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_027/Main.java) | 字符串  |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
