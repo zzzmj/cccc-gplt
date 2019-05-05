@@ -38,6 +38,9 @@
 |L1-037| A除以B  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_037/Main.java) | 水题  |
 |L1-038| 新世界  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_038/Main.java) | 水题  |
 |L1-039| 古风排版  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_039/Main.java) | 图形打印  |
+|L1-040| 最佳情侣身高差  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_040/Main.java) | 数学题  |
+|L1-041| 寻找250  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_041/Main.java) | 水题  |
+|L1-042| 日期格式化  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_042/Main.java) | 水题  |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
