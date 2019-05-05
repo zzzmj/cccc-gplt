@@ -33,6 +33,11 @@
 |L1-032| Left-pad  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_032/Main.java) | 字符串处理  |
 |L1-033| 出生年  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_033/Main.java) | 字符串处理  |
 |L1-034| 点赞  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_034/Main.java) | 逻辑题  |
+|L1-035| 情人节  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_035/Main.java) | 字符串  |
+|L1-036| A乘以B  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_036/Main.java) | 水题  |
+|L1-037| A除以B  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_037/Main.java) | 水题  |
+|L1-038| 新世界  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_038/Main.java) | 水题  |
+|L1-039| 古风排版  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_039/Main.java) | 图形打印  |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
