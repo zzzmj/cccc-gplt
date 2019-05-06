@@ -42,6 +42,9 @@
 |L1-041| 寻找250  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_041/Main.java) | 水题  |
 |L1-042| 日期格式化  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_042/Main.java) | 水题  |
 |L1-043| 阅览室  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_043/Main.java) | 逻辑题  |
+|L1-044| 稳赢  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_044/Main.java) | 逻辑题  |
+|L1-045| 宇宙无敌大招呼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_045/Main.java) | 水题  |
+|L1-046| 整除光棍  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_046/Main.java) | 大数  |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
