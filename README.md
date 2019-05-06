@@ -47,6 +47,7 @@
 |L1-046| 整除光棍  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_046/Main.java) | 大数  |
 |L1-047| 装睡   | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_047/Main.java) | 水题  |
 |L1-048| 矩阵A乘以B  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_048/Main.cpp)[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_048/Main.java) | 矩阵乘法  |
+|L1-049| 天梯赛座位分配  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_049/Main.java) | 模拟  |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
@@ -65,6 +66,16 @@
 |L2-031| 深入虎穴  |[C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_032/Main.cpp)| bfs |
 |L2-032| 彩虹瓶  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_032/Main.java)| 栈 |
 
+
+**期间有些题花的时间比较长**
+
+L1-006 连续因子，理解错了题意，花了不少时间
+
+L1-043 阅览室，总有两个测试点没过
+
+L1-049 天梯赛座位分配，没能仔细分析，花了不少时间
+
+**一些用Java会超时的题**
 L1_011 Java超时
 
 L2-014 Java超时
