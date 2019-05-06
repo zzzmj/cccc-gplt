@@ -22,7 +22,7 @@ public class Main {
         int[][] res = new int[105][105];
         int[] school = new int[105];
         int cnt = 1;
-        boolean flag = true;
+        if (n == 1) cnt = 0;
         Arrays.fill(school, 0);
         for (int i = 0; i < 10*max; i++) {
             for (int j = 0; j < n; j++) {
@@ -37,12 +37,8 @@ public class Main {
                     }
                     // 只剩下一个学校
                     if (num == 1) {
-                        if (flag && n != 1) {
-                            cnt += 1;
-                            flag = false;
-                        }
-                        res[j][i] = cnt;
-                        cnt += 2;
+                        cnt += 1;
+                        res[j][i] = cnt++;
                     } else {
                         res[j][i] = cnt++;
                     }
