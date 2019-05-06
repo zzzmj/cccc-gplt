@@ -45,6 +45,8 @@
 |L1-044| 稳赢  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_044/Main.java) | 逻辑题  |
 |L1-045| 宇宙无敌大招呼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_045/Main.java) | 水题  |
 |L1-046| 整除光棍  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_046/Main.java) | 大数  |
+|L1-047| 装睡   | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_047/Main.java) | 水题  |
+|L1-048| 矩阵A乘以B  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_048/Main.cpp)[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_048/Main.java) | 矩阵乘法  |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
