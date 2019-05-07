@@ -58,6 +58,10 @@
 |L1-057| PTA使我精神焕发  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_057/Main.java) | 水题 |
 |L1-058| 6翻了   |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_058/Main.java) | 字符串 |
 |L1-059| 敲笨钟   |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_059/Main.java) | 字符串 |
+|L1-060| 心理阴影面积   |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_060/Main.java) | 数学题 |
+|L1-061| 新胖子公式   |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_061/Main.java) | 数学题 |
+|L1-062| 幸运彩票   |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_062/Main.java) | 逻辑题 |
+|L1-063| 吃鱼还是吃肉   |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_063/Main.java) | 数学题 |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
