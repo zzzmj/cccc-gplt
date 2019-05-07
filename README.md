@@ -53,6 +53,8 @@
 |L1-052| 2018我们要赢  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_052/Main.java) | 水题 |
 |L1-053| 电子汪  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_053/Main.java) | 水题 |
 |L1-054| 福到了  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_054/Main.java) | 图形打印 |
+|L1-055| 谁是赢家  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_055/Main.java) | 逻辑题 |
+|L1-056| 猜数字  |[C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_056/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_056/Main.java) | 逻辑题 |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
@@ -82,6 +84,8 @@ L1-049 天梯赛座位分配，没能仔细分析，花了不少时间
 
 **一些用Java会超时的题**
 L1_011 Java超时
+
+L1_056 Java卡最后一个测试点
 
 L2-014 Java超时
 
