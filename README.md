@@ -55,6 +55,9 @@
 |L1-054| 福到了  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_054/Main.java) | 图形打印 |
 |L1-055| 谁是赢家  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_055/Main.java) | 逻辑题 |
 |L1-056| 猜数字  |[C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_056/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_056/Main.java) | 逻辑题 |
+|L1-057| PTA使我精神焕发  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_057/Main.java) | 水题 |
+|L1-058| 6翻了   |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_058/Main.java) | 字符串 |
+|L1-059| 敲笨钟   |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_059/Main.java) | 字符串 |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
