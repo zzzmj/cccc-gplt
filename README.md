@@ -48,7 +48,11 @@
 |L1-047| 装睡   | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_047/Main.java) | 水题  |
 |L1-048| 矩阵A乘以B  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_048/Main.cpp)[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_048/Main.java) | 矩阵乘法  |
 |L1-049| 天梯赛座位分配  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_049/Main.java) | 模拟  |
-|L1-050| 倒数第N个字符串  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_050/Main.java) |   |
+|L1-050| 倒数第N个字符串  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_050/Main.java) | 数学题 |
+|L1-051| 打折  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_051/Main.java) | 数学题 |
+|L1-052| 2018我们要赢  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_052/Main.java) | 水题 |
+|L1-053| 电子汪  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_053/Main.java) | 水题 |
+|L1-054| 福到了  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_054/Main.java) | 图形打印 |
 |L2-001| 城市间紧急救援  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_001/Main.cpp) | Dijkstra算法 |
 |L2-002| 链表去重  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_002/Main.cpp) | 链表 |
 |L2-003| 月饼  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_003/Main.java) | 贪心 |
