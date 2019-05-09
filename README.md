@@ -68,6 +68,7 @@
 |L2-004| 搜索树判断  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_004/Main.cpp) | 二叉搜索树 |
 |L2-005| 集合相似度  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_005/Main.cpp) | set |
 |L2-006| 树的遍历  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_006/Main.cpp) | 后序+中序建树求层序 |
+|L2-008| 最长对称子串  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_008/Main.cpp) | 暴力 |
 |L2-009| 抢红包  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_009/Main.cpp) | 结构体排序 |
 |L2-011| 玩转二叉树  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_011/Main.cpp) | 前序+中序建树求层序 |
 |L2-013| 红色警报  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_013/Main.cpp) | dfs统计连通块 |
@@ -76,7 +77,8 @@
 |L2-017| 人以群分  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_017/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_017/Main.cpp) | 水题 |
 |L2-019| 悄悄关注  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_019/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_019/Main.cpp) | 水题 |
 |L2-021| 点赞狂魔  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_019/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_021/Main.cpp) | 结构体排序+set |
-|L2-023| 图着色问题  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_023/Main.java) [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_023/Main.cpp) | 图的遍历 |
+|L2-023| 图着色问题  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_023/Main.java) [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_023/Main.java) | 图的遍历 |
+|L2-026| 小字辈  |[C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_023/Main.java) [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_026/Main.cpp) | BFS |
 |L2-029| 特立独行的幸福  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_029/Main.java)| 水题 |
 |L2-031| 深入虎穴  |[C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_032/Main.cpp)| bfs |
 |L2-032| 彩虹瓶  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_032/Main.java)| 栈 |
