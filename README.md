@@ -1,3 +1,10 @@
+## 1. 前言
+大多是想用java解的，有些题java会超时就换成了c++
+[Github](https://github.com/zzzmj/cccc-gplt)
+[天梯赛](https://pintia.cn/problem-sets/994805046380707840/problems/type/7)
+
+## 2. 目录
+
 | 编号 | 标题 |  题解  | 分类 |
 | ---- | ---- | ------------------------- | ---- |
 |L1-001| Hello, World  | [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L1_001/Main.java) | 水题 |
@@ -75,12 +82,12 @@
 |L2-013| 红色警报  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_013/Main.cpp) | dfs统计连通块 |
 |L2-014| 列车调度  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_014/Main.cpp) | 贪心+二分 |
 |L2-015| 成绩互评  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_015/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_015/Main.cpp) | 排序 |
-|L2-017| 人以群分  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_017/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_017/Main.cpp) | 水题 |
-|L2-019| 悄悄关注  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_019/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_019/Main.cpp) | 水题 |
-|L2-021| 点赞狂魔  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_019/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_021/Main.cpp) | 结构体排序+set |
-|L2-023| 图着色问题  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_023/Main.java) [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_023/Main.java) | 图的遍历 |
-|L2-026| 小字辈  |[C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_023/Main.java) [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_026/Main.cpp) | BFS |
-|L2-027| 名人堂与代金券  |[C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_023/Main.java) [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_027/Main.cpp) | 结构体排序 |
+|L2-017| 人以群分  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_017/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_017/Main.java) | 水题 |
+|L2-019| 悄悄关注  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_019/Main.cpp) [Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_019/Main.java) | 水题 |
+|L2-021| 点赞狂魔  | [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_021/Main.cpp)  | 结构体排序+set |
+|L2-023| 图着色问题  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_023/Main.java) [C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_023/Main.cpp) | 图的遍历 |
+|L2-026| 小字辈  |[C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_026/Main.cpp) | BFS |
+|L2-027| 名人堂与代金券  |[C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_027/Main.cpp) | 结构体排序 |
 |L2-029| 特立独行的幸福  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_029/Main.java)| 水题 |
 |L2-031| 深入虎穴  |[C++](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_032/Main.cpp)| bfs |
 |L2-032| 彩虹瓶  |[Java](https://github.com/zzzmj/cccc-gplt/blob/master/src/L2_032/Main.java)| 栈 |
