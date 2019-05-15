@@ -1,6 +1,8 @@
 ## 1. 前言
 大多是想用java解的，有些题java会超时就换成了c++
+
 [Github](https://github.com/zzzmj/cccc-gplt)
+
 [天梯赛](https://pintia.cn/problem-sets/994805046380707840/problems/type/7)
 
 ## 2. 目录
@@ -109,3 +111,60 @@ L2-017 Java超时，卡两个测试点
 L2-019 Java超时，卡最后一个测试点
 
 L2-023 Java版卡最后一个测试点
+
+> 2019.5.15号更新。
+
+使用快速读写模板，有些题可能不会超时
+
+```java
+public class Main {
+    static InputReader in = new InputReader(new BufferedInputStream(System.in));
+    static PrintWriter out = new PrintWriter(System.out);
+    
+    static class InputReader {
+        public BufferedReader reader;
+        public StringTokenizer tokenizer;
+        
+        public InputReader(InputStream stream) {
+            reader = new BufferedReader(new InputStreamReader(stream), 32768);
+            tokenizer = null;
+        }
+        
+        public String next() {
+            while(tokenizer == null || !tokenizer.hasMoreTokens()) {
+                try {
+                    tokenizer = new StringTokenizer(reader.readLine());
+                } catch (IOException e) {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
+                }
+            }
+            return tokenizer.nextToken();
+        }
+        
+        public String nextLine() {
+            String s = null;
+            try {
+                s = reader.readLine();
+            } catch (IOException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
+            return s;
+        }
+        
+        public int nextInt() {
+            return Integer.parseInt(next());
+        }
+    
+    
+        public long nextLong() {
+            return Long.parseLong(next());
+        }
+    
+        public Double nextDouble() {
+            return Double.parseDouble(next());
+        }
+    }
+}
+```
