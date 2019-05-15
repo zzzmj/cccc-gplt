@@ -1,29 +1,27 @@
 package L2_015;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.Arrays;
+import java.util.StringTokenizer;
 
 /**
  * @author zmj
  * @create 2019/4/22
  */
 public class Main {
+    static InputReader in = new InputReader(new BufferedInputStream(System.in));
+    static PrintWriter out = new PrintWriter(System.out);
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String[] line = br.readLine().split(" ");
-        int n = Integer.parseInt(line[0]);
-        int k = Integer.parseInt(line[1]);
-        int m = Integer.parseInt(line[2]);
+        int n = in.nextInt();
+        int k = in.nextInt();
+        int m = in.nextInt();
         
         double[] score = new double[n];
         
         for (int i = 0; i < n; i++) {
             int[] single = new int[k];
-            String[] t = br.readLine().split(" ");
             for (int j = 0; j < k; j++) {
-                single[j] = Integer.parseInt(t[j]);
+                single[j] = in.nextInt();
             }
             Arrays.sort(single);
             
@@ -38,9 +36,59 @@ public class Main {
         
         for (int i = n-m; i < n; i++) {
             if (i > n - m) {
-                System.out.print(" ");
+                out.print(" ");
             }
-            System.out.print(String.format("%.3f", score[i]));
+            out.print(String.format("%.3f", score[i]));
+        }
+        out.flush();
+        out.close();
+    }
+
+
+    static class InputReader {
+        public BufferedReader reader;
+        public StringTokenizer tokenizer;
+
+        public InputReader(InputStream stream) {
+            reader = new BufferedReader(new InputStreamReader(stream), 32768);
+            tokenizer = null;
+        }
+
+        public String next() {
+            while(tokenizer == null || !tokenizer.hasMoreTokens()) {
+                try {
+                    tokenizer = new StringTokenizer(reader.readLine());
+                } catch (IOException e) {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
+                }
+            }
+            return tokenizer.nextToken();
+        }
+
+        public String nextLine() {
+            String s = null;
+            try {
+                s = reader.readLine();
+            } catch (IOException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
+            return s;
+        }
+
+        public int nextInt() {
+            return Integer.parseInt(next());
+        }
+
+
+        public long nextLong() {
+            return Long.parseLong(next());
+        }
+
+        public Double nextDouble() {
+            return Double.parseDouble(next());
         }
     }
+    
 }
